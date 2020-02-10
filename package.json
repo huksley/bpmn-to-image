@@ -1,6 +1,6 @@
 {
-  "name": "bpmn-to-image",
-  "version": "0.4.0",
+  "name": "@huksley/bpmn-to-image",
+  "version": "0.5.1",
   "description": "Convert a BPMN 2.0 diagrams to PDF, SVG or PNG images",
   "main": "index.js",
   "bin": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bpmn-io/bpmn-to-image.git"
+    "url": "git@github.com:huksley/bpmn-to-image.git"
   },
   "keywords": [
     "BPMN",
